@@ -1,0 +1,6 @@
+C:\Users\to101757\Documents\TestPiano\MidiGalon\bin\x86\Debug\MidiGalon.dll
+C:\Users\to101757\Documents\TestPiano\MidiGalon\bin\x86\Debug\MidiGalon.pdb
+C:\Users\to101757\Documents\TestPiano\MidiGalon\obj\x86\Debug\MidiGalon.csprojAssemblyReference.cache
+C:\Users\to101757\Documents\TestPiano\MidiGalon\obj\x86\Debug\MidiGalon.csproj.CoreCompileInputs.cache
+C:\Users\to101757\Documents\TestPiano\MidiGalon\obj\x86\Debug\MidiGalon.dll
+C:\Users\to101757\Documents\TestPiano\MidiGalon\obj\x86\Debug\MidiGalon.pdb
