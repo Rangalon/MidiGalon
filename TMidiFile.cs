@@ -183,7 +183,7 @@ namespace MidiGalon
 
                             body += time.ToString() + " " + d1.ToString() + " " + d2.ToString() + " " + peekByte.ToString() + "\n";
 
-                            channel.Events.Add(new TMidiEvent() { Date = time, Note = d1, Velocity = d2 });
+                            channel.Events.Add(new TMidiNoteEvent() { Date = time, Note = d1, Velocity = d2 });
                         }
                     }
                     else

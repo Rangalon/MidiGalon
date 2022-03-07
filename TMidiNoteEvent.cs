@@ -7,7 +7,7 @@ using System.Xml.Serialization;
 
 namespace MidiGalon
 {
-    public class TMidiEvent
+    public class TMidiNoteEvent
     {
         [XmlAttribute("d")]
         public int Date;

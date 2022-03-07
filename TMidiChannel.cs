@@ -11,6 +11,6 @@ namespace MidiGalon
     {
         [XmlArray("Evnts")]
         [XmlArrayItem("Evnt")]
-        public List<TMidiEvent> Events = new List<TMidiEvent>();
+        public List<TMidiNoteEvent> Events = new List<TMidiNoteEvent>();
     }
 }
