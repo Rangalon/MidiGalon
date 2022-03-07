@@ -1,4 +1,4 @@
-﻿ 
+﻿
 
 namespace MidiGalon.MidiFile
 {

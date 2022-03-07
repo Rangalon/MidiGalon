@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Text; 
+using System.Text;
 
 namespace MidiGalon.MidiFile
 {
