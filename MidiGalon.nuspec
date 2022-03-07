@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>MidiGalon</id>
+    <version>1.0.0.0</version>
+    <title>MidiGalon</title>
+    <authors>Rann Galon</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <description>Libray to parse Midi Files, and convert them to XML if required.</description>
+    <releaseNotes>First Draft!</releaseNotes>
+    <copyright>Copyright © Galon's Lab 2022</copyright>
+    <tags>Midi Xml Simplified Parsing</tags>
+  </metadata>
+</package>
